@@ -12,4 +12,4 @@ install.packages("HMC")
 
 ## 📖 Tutorial
 
-👉 [Performing Two-Sample Mean Comparison Using HMC](https://terrytianyuzhang.github.io/HMC/HMC_tutorial.html)
+👉 [Performing Two-Sample Mean Comparison Using HMC](https://AnonymousSubmission-normal.github.io/HMC_JASA/HMC_tutorial.html)
